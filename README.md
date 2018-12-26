@@ -25,4 +25,4 @@ The money of all entities in the chain was under threat based on the mode of pay
 # RESULT:
 Optimized model giving Recall of 90.807% on the test data without compromising with the accuracy a lot.
 
-# Tools used: Python ( Sklearn, Numpy, Matplotlib.pyplot , Pandas, Imblearn )
+## Tools used: Python ( Sklearn, Numpy, Matplotlib.pyplot , Pandas, Imblearn )
